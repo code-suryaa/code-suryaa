@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="./hero.svg?v=1" alt="Surya Pratap Singh — Developer Hero" width="100%" />
+  <img src="./hero.svg?v=2" alt="Surya — Developer Hero" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./about-life.svg?v=1" alt="What I Build & Beyond Code" width="100%" />
+  <img src="./about-life.svg?v=2" alt="What I Build & Beyond Code" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./stack.svg?v=1" alt="Tech Orbit & Learning Path" width="100%" />
+  <img src="./stack.svg?v=2" alt="Tech Orbit & Learning Path" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./id-dashboard.svg?v=1" alt="Developer ID Badge & Dashboard" width="100%" />
+  <img src="./id-dashboard.svg?v=2" alt="Developer ID Badge & Dashboard" width="100%" />
 </p>
 
 ## Featured Projects
@@ -26,11 +26,11 @@
 ## 3D Contribution City
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg?v=1" alt="3D Contribution Skyline" width="100%" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg?v=2" alt="3D Contribution Skyline" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./connect.svg?v=1" alt="Connect with Surya Pratap Singh" width="100%" />
+  <img src="./connect.svg?v=2" alt="Connect with Surya" width="100%" />
 </p>
 
 <p align="center">
