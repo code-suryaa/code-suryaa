@@ -23,12 +23,6 @@
 | [C++ Mini Projects](https://github.com/code-suryaa/cpp-mini-projects) | C++ | CLI utilities (Calculator, Rock Paper Scissors, Student Grade Calculator) | Active |
 | [Python Projects](https://github.com/code-suryaa/python-projects) | Python | Growing collection of Python scripts and practice builds | Active |
 
-## 3D Contribution City
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg?v=2" alt="3D Contribution Skyline" width="100%" />
-</p>
-
 <p align="center">
   <img src="./connect.svg?v=2" alt="Connect with Surya" width="100%" />
 </p>
